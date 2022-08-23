@@ -16,15 +16,17 @@ body {
 p{
     margin: 0;
     padding: 0;
+    padding-left: 3%;
+    padding-right: 3%;
     text-align: center;
 }
 .main-container {
   position: relative;
-  top: 20%;
+  /* top: 10%; */
   max-height: 100vh;
   max-width: 35em;
   margin: 0 auto;
-  margin-top: 10%;
+  margin-top: 5%;
   border-radius: 1vw;
   box-shadow: 0 0 3px rgb(255, 68, 239);
   outline:  solid rgba(255, 69, 239, 0.50);
